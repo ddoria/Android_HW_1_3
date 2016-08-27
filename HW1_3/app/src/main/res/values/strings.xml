@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">HW1_3</string>
+    <string name="app_name">배경색 바꾸기</string>
+    <string name="menu_explain">키패드의 MENU 버튼을 누르세요.</string>
+    <string name="red_button">배경색(빨강)</string>
+    <string name="green_button">배경색(초록)</string>
+    <string name="blue_button">배경색(파랑)</string>
 </resources>
